@@ -1,1 +1,21 @@
 https://labelbox.com/ - for general image segmentation testing.
+
+https://ayameyao.github.io/static/files/publications/A_review_of_computer_vision_technologies_for_plant_phenotyping.pdf
+
+https://arxiv.org/pdf/1811.09561 - link about phenotyping grape vine plants
+
+https://link.springer.com/article/10.1007/s00138-015-0737-3 - leaf edge detection, could be useful?
+
+
+hidden markov models?
+
+leaves, no flowers
+flowerers, berries
+leaves, no berries, etc all possible combos.
+
+dahl speech recognition paper? context dependent pre trained DNN
+
+viterbi decoding speech recognition algorithm (on wikipedia)
+https://en.wikipedia.org/wiki/Viterbi_algorithm
+
+look into HuggingFace as a data storage/upload alternative

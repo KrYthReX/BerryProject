@@ -19,3 +19,13 @@ viterbi decoding speech recognition algorithm (on wikipedia)
 https://en.wikipedia.org/wiki/Viterbi_algorithm
 
 look into HuggingFace as a data storage/upload alternative
+
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8969581/ - review on plant phenotyping papers
+
+https://www.mdpi.com/2072-4292/12/13/2120# - plant specific pre-processing and testing
+
+https://www.mdpi.com/2073-4395/13/2/463 - plant classification (could be used for the "future" portion of project)
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6312910/ (could be useful? didnt really look into this one that deeply)
+

@@ -29,3 +29,9 @@ https://www.mdpi.com/2073-4395/13/2/463 - plant classification (could be used fo
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC6312910/ (could be useful? didnt really look into this one that deeply)
 
+-----------------------------------------------------------------
+https://onlinelibrary.wiley.com/doi/full/10.1002/rob.21699 -- very long and may not be entirely relevant, but segmentation processes may be useful
+
+https://ieeexplore.ieee.org/document/8954712 - specific feature (like buds) identification
+
+
